@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+You can try this App at this URL https://affectionate-dijkstra-532d01.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
